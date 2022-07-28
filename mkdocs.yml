@@ -2,3 +2,5 @@ site_name: GeoDataFR
 
 theme:
   name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
