@@ -18,7 +18,7 @@ The anonymous data of the RPG are vintage and contain parcels corresponding to t
 Metropolitan area of France
 
 #### Code Editor Snippet
-```
+```js
 // Import the dataset.
 var rpg = ee.FeatureCollection("projects/ee-france/assets/rpg/rpg2020");
 
