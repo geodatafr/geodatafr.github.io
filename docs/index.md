@@ -1,6 +1,6 @@
 # Earth Engine Community Datasets Covering France
 
-The aim of the **ee-france** project is to provide a collection of high quality and famous datasets covering France ready to use in Google Earth Engine. Along the pages of this project, public earth engine assets are shared and illustrated on various examples.
+The aim of the **ee-france** project is to provide a collection of high quality and famous geospatial datasets covering France ready to use in Google Earth Engine. Along the pages of this project, public earth engine assets are shared and illustrated on various examples.
 
 If your are looking for global datasets please also visit:
 

@@ -1,4 +1,4 @@
-BDLISA version 2: the hydrogeological french referential
+BDLISA version 2: the french hydrogeological referential
 ===
 
 [BDLISA](https://bdlisa.eaufrance.fr/) is a referential of the French Water Information System. This dataset classifies the subsoil into hydrogeological entities which are described according to different properties: aquifer or impermeable, free or captive flows, porous, fractured, karstic environment.
