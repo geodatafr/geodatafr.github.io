@@ -67,5 +67,5 @@ Map.addLayer(mediumVisCustom, null, 'Aquifer properties');
 #### Licence
 Etalab Open License 2.0
 
-#### Impelmentation in Earth Engine
+#### Implementation in Earth Engine
 Currated in Earth Engine by [Guillaume Attard](https://guillaumeattard.com/) & [Julien Bardonnet](https://www.linkedin.com/in/julienbardonnet/)
