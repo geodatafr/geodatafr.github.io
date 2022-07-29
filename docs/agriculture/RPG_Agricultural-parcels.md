@@ -11,8 +11,13 @@ The anonymous data of the RPG are vintage and contain parcels corresponding to t
 - [Link to dataset description](https://geoservices.ign.fr/sites/default/files/2021-12/DC_DL_RPG_2-0.pdf)
 - [Other infos](https://odr.inrae.fr/intranet/carto/cartowiki/index.php/RPG_:_Groupes_de_Cultures)
 
-#### Available years in Earth Engine
-2020, 2019, 2018
+#### Available years and assets in Earth Engine
+
+| Year | Asset ID                              |
+|------|---------------------------------------|
+| 2020 | projects/ee-france/assets/rpg/rpg2020 |
+| 2019 | projects/ee-france/assets/rpg/rpg2019 |
+| 2018 | projects/ee-france/assets/rpg/rpg2018 |
 
 #### Area covered in Earth Engine
 Metropolitan area of France
