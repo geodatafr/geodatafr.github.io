@@ -51,7 +51,7 @@ Map.addLayer(coloredRpg, {palette: palette, min:1, max:28}, 'RPG');
 ```
 ![asset_snippet](/assets/eeassets-snippets/rpg.gif)
 
-[Visit the code editor here](https://code.earthengine.google.com/cde677126edd52908df2f28f82da8d11)
+[Visit the code editor here](https://code.earthengine.google.com/?scriptPath=users%2Fguiattard_gei%2Fee-france%3Arpg%2Frpg_explore)
 
 #### Data producer
 [IGN](https://www.brgm.fr/fr)
