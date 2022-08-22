@@ -35,7 +35,7 @@ var poi = ee.Geometry.Point(lon, lat);
 // Paint the dataset with appropriate palette.
 var empty = ee.Image().byte();
 var coloredRpg = empty.paint({
-  featureCollection: table,
+  featureCollection: rpg,
   color: 'CODE_GROUP',
 });
 
