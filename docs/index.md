@@ -15,7 +15,7 @@ If your are looking for global datasets please also visit:
  Guillaume is a geoscientist expert fascinated by new technologies and geodata science. Guillaume is also a [Google Developer Expert](https://developers.google.com/community/experts/directory) in Earth Engine.
 
 #### Julien Bardonnet
-Julien is a Tech Lead expert with a 10-years experience in the fields of data engineering, computer vision, and sowftware developement.
+Julien is a Tech Lead expert with a 10-years experience in the fields of data engineering, computer vision, and software developement.
 
 
 <a href="https://fr.freepik.com/vecteurs/astronaute-mignon">Project logo inspired by catalyststuff - fr.freepik.com</a>
