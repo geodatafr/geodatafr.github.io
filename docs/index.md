@@ -9,6 +9,15 @@ If your are looking for global datasets please also visit:
 
  ![logo-projet](/assets/images/logo-ee-france.png)
 
+# Table of content (by data provider)
+
+- The National Institute of Geographic and Forest Information ([IGN](https://www.ign.fr/)):
+    - [Agricultural Parcels (RPG)](https://geodatafr.github.io/agriculture/RPG_Agricultural-parcels/)
+- The French Geological Survey ([BRGM](https://www.brgm.fr/en)) :
+    - [Groundwater bodies (BDLISA)](https://geodatafr.github.io/hydrology/BDLISA_Groundwater-bodies/)
+    - [Withdrawl-swelling risk of clay soils (RGA)](https://geodatafr.github.io/georisks/RGA_Withdrawl-swelling_risk_of_clay_soils/)
+
+
 # About us
 
 #### Guillaume Attard
