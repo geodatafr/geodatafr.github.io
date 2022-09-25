@@ -5,6 +5,7 @@ The administrative divisions of the French territory (municipality, departmental
 
 #### Description
 The ADMIN EXPRESS product contains the following data layers or object classes (in french):
+
  - ARRONDISSEMENT (ARRON)
  - ARRONDISSEMENT_MUNICIPAL (ARRMU)
  - CANTON (CANTO)
