@@ -12,6 +12,7 @@ If your are looking for global datasets please also visit:
 # Table of content (by data provider)
 
 - The National Institute of Geographic and Forest Information ([IGN](https://www.ign.fr/)):
+    - [Administrative divisions of the French territory](https://geodatafr.github.io/administrative/ADMIN_EXPRESS_Administrative_boundaries/)
     - [Agricultural Parcels (RPG)](https://geodatafr.github.io/agriculture/RPG_Agricultural-parcels/)
 - The French Geological Survey ([BRGM](https://www.brgm.fr/en)) :
     - [Groundwater bodies (BDLISA)](https://geodatafr.github.io/hydrology/BDLISA_Groundwater-bodies/)
