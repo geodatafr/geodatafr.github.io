@@ -26,8 +26,8 @@ ADMIN EXPRESS allows cross-referencing with other data sources in order to build
 #### Code Editor Snippet
 ```javascript
 // Import the datasets.
-var regions = ee.FeatureCollection("projects/ee-france/assets/IGN/ADMIN_EXPRESS/082022/REGIO");
-var communes = ee.FeatureCollection("projects/ee-france/assets/IGN/ADMIN_EXPRESS/082022/COMMU");
+var regions = ee.FeatureCollection("projects/ee-france/assets/IGN/ADMIN_EXPRESS/202208/REGIO");
+var communes = ee.FeatureCollection("projects/ee-france/assets/IGN/ADMIN_EXPRESS/202208/COMMU");
 
 
 // Define a location of interest.
