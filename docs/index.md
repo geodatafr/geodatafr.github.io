@@ -14,6 +14,7 @@ If your are looking for global datasets please also visit:
 - The National Institute of Geographic and Forest Information ([IGN](https://www.ign.fr/)):
     - [Administrative divisions of the French territory (ADMIN EXPRESS)](https://geodatafr.github.io/IGN/ADMIN_EXPRESS_Administrative_boundaries/)
     - [Agricultural Parcels (RPG)](https://geodatafr.github.io/IGN/RPG_Agricultural-parcels/)
+    - [Digital Elevation model (RGE Alti 1m)](https://geodatafr.github.io/IGN/RGE_Alti_1m_HR_Digital_elevation_model/)
 - The French Geological Survey ([BRGM](https://www.brgm.fr/en)) :
     - [Groundwater bodies (BDLISA)](https://geodatafr.github.io/BRGM/BDLISA_Groundwater-bodies/)
     - [Withdrawl-swelling risk of clay soils (RGA)](https://geodatafr.github.io/BRGM/RGA_Withdrawl-swelling_risk_of_clay_soils/)
