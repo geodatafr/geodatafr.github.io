@@ -9,7 +9,7 @@ Metropolitan area of France (excluding the city of Paris)
 ```javascript
 
 // Import the dataset.
-var rga = ee.FeatureCollection("projects/ee-france/assets/georisques/rga");
+var rga = ee.FeatureCollection("projects/ee-france/assets/BRGM/GEOR/RGA");
 
 // Define a location of interest.
 var lon = 5.04855;

@@ -13,11 +13,11 @@ The anonymous data of the RPG are vintage and contain parcels corresponding to t
 
 #### Available years and assets in Earth Engine
 
-| Year | Asset ID                              |
-|------|---------------------------------------|
-| 2020 | projects/ee-france/assets/rpg/rpg2020 |
-| 2019 | projects/ee-france/assets/rpg/rpg2019 |
-| 2018 | projects/ee-france/assets/rpg/rpg2018 |
+| Year | Asset ID                                  |
+|------|-------------------------------------------|
+| 2020 | projects/ee-france/assets/IGN/RPG/rpg2020 |
+| 2019 | projects/ee-france/assets/IGN/RPG/rpg2019 |
+| 2018 | projects/ee-france/assets/IGN/RPG/rpg2018 |
 
 #### Area covered in Earth Engine
 Metropolitan area of France
@@ -25,7 +25,7 @@ Metropolitan area of France
 #### Code Editor Snippet
 ```javascript
 // Import the dataset.
-var rpg = ee.FeatureCollection("projects/ee-france/assets/rpg/rpg2020");
+var rpg = ee.FeatureCollection("pprojects/ee-france/assets/IGN/RPG/rpg2020");
 
 // Define a location of interest.
 var lon = 5.04855;
