@@ -18,6 +18,7 @@ If your are looking for global datasets please also visit:
 - The French Geological Survey ([BRGM](https://www.brgm.fr/en)) :
     - [Groundwater bodies (BDLISA)](https://geodatafr.github.io/BRGM/BDLISA_Groundwater-bodies/)
     - [Withdrawl-swelling risk of clay soils (RGA)](https://geodatafr.github.io/BRGM/RGA_Withdrawl-swelling_risk_of_clay_soils/)
+    - [Groundwater-induced Flooding](https://geodatafr.github.io/BRGM/IRN_Groundwater-induced_flooding/)
 - The French national meteorological service ([Météo-France](https://meteofrance.com/)):
     - [Soil Wetness Index (SWI)](https://geodatafr.github.io/METEO_FRANCE/SWI_Soil_Wetness_Index/)
 
